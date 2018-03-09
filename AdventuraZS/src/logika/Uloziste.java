@@ -2,7 +2,7 @@ package logika;
 import java.util.*;
 
 /**
- *  Třída Uloziste
+ *  Třída Uloziste - v herním plánu jsou pak vytvořeny 2 úložiště - ruka a ledvinka
  *
  *  Tato třída je součástí jednoduché textové hry.
  *
